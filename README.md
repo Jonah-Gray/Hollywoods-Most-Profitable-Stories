@@ -4,4 +4,4 @@
 <p>Creating charts within R itsself, and then transforming the data into a dashboard using PowerBI.</p>
 
 ![4](https://github.com/Jonah-Gray/Hollywoods-Most-Profitable-Stories/assets/133653184/e1c6b3b9-5fd1-42ca-b450-4d94183b2109)
-<p> ![3](https://github.com/Jonah-Gray/Hollywoods-Most-Profitable-Stories/assets/133653184/76489d5a-5144-421f-a883-294c1dd341a5) </p>
+![3](https://github.com/Jonah-Gray/Hollywoods-Most-Profitable-Stories/assets/133653184/76489d5a-5144-421f-a883-294c1dd341a5)
